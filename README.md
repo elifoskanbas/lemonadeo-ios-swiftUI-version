@@ -34,11 +34,11 @@ The project includes the following views:
 ## Screenshots
 
 <p align="center">
+   <img src="app%20screenshots/SplashView.png" width="200" />
   <img src="app%20screenshots/ContentView.png" width="200" />
-  <img src="app%20screenshots/LearnView.png" width="200" />
   <img src="app%20screenshots/MonthsLearningView.png" width="200" />
   <img src="app%20screenshots/SpellingGameView.png" width="200" />
-  <img src="app%20screenshots/SplashView.png" width="200" />
+ 
 </p>
 
 
