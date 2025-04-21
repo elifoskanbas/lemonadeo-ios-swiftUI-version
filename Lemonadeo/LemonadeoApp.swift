@@ -7,11 +7,14 @@
 
 import SwiftUI
 
+
+
 @main
 struct LemonadeoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
+
